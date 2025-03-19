@@ -10,10 +10,15 @@ The **Form Data to JSON Converter** is a lightweight and user-friendly web tool 
 ## Features
 
 ✅ **Instant Conversion** – Quickly transform form-data into JSON format with a single click.
+
 ✅ **Easy-to-Use Interface** – Simple, intuitive UI designed for developers and testers.
+
 ✅ **API Testing Friendly** – Ideal for testing APIs that require JSON payloads.
+
 ✅ **Web Development Support** – Streamline your workflow with structured data conversion.
+
 ✅ **Nested Data Handling** – Supports converting structured form-data into nested JSON objects and arrays.
+
 ✅ **Fully Client-Side** – No data is sent to a server, ensuring privacy and security.
 
 ## How to Use
